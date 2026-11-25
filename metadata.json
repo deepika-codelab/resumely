@@ -1,0 +1,6 @@
+{
+  "name": "Resumely — ATS Resume Builder",
+  "description": "A modern, ATS-friendly resume builder with real-time keyword diagnostics, smart resume import, and clean single-column templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
